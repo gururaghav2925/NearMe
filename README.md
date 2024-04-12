@@ -73,7 +73,7 @@ Execute the programs and publish them.
 
 ## OUTPUT
 
-![alt text](<../Screenshot 2024-04-12 093949.png>)
+![Screenshot 2024-04-12 093949](https://github.com/gururaghav2925/NearMe/assets/151489500/063123d0-32c5-4558-a73e-1545c52e8a8f)
 
 
 
